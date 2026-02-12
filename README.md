@@ -1,6 +1,6 @@
 # Watchguardian
 
-Website for the Personalized Intervention research project.
+Website for the Personalized Intervention (Watchguardian) research project.
 
 Paper: WatchGuardian: Enabling User-Defined Personalized Just-in-Time Intervention on Smartwatch
 
